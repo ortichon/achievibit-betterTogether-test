@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/ortichon/achievibit-betterTogether-test#readme",
   "dependencies": {
-    "moment": "^2.22.2",
-    "lodash": "^4.16.6"
+    "moment": "^2.22.2"
   }
 }
